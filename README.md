@@ -14,3 +14,4 @@ findBrokenKeys("happy birthday", "hawwy birthday") ➞ ["p"]
 findBrokenKeys("starry night", "starrq light") ➞ ["y", "n"]
 findBrokenKeys("beethoven", "affthoif5") ➞ ["b", "e", "v", "n"]
 
+![Imgur](https://i.imgur.com/dxoXdPn.png?1)
